@@ -68,7 +68,7 @@ export default function LandingPage() {
       ]}
       slides={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/female-hairdresser-styling-clients-hair_107420-94691.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/female-hairdresser-styling-clients-hair_107420-94691.jpg?_wi=1",
           imageAlt: "hair salon interior elegant warm light",
         },
         {
@@ -130,19 +130,19 @@ export default function LandingPage() {
         {
           title: "Colore",
           description: "Naturale o deciso, sempre studiato su di te.",
-          imageSrc: "http://img.b2bpic.net/free-photo/female-hairdresser-styling-clients-hair_107420-94691.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/female-hairdresser-styling-clients-hair_107420-94691.jpg?_wi=2",
           imageAlt: "european woman with bright makeup and long wavy hair posing",
         },
         {
           title: "Piega & Styling",
           description: "Per uscire sentendoti al meglio, ogni volta.",
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-attractive-stylish-lady-with-bright-makeup-smiling_291650-581.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-attractive-stylish-lady-with-bright-makeup-smiling_291650-581.jpg?_wi=1",
           imageAlt: "european woman with bright makeup and long wavy hair posing",
         },
         {
           title: "Trattamenti",
           description: "Per capelli più sani, luminosi e forti.",
-          imageSrc: "http://img.b2bpic.net/free-photo/young-girl-black-shirt-hanged-toy-camera-from-her-neck_114579-24475.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-girl-black-shirt-hanged-toy-camera-from-her-neck_114579-24475.jpg?_wi=1",
           imageAlt: "european woman with bright makeup and long wavy hair posing",
         },
       ]}
@@ -206,7 +206,7 @@ export default function LandingPage() {
           role: "Cliente",
           company: "Fedele",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-attractive-stylish-lady-with-bright-makeup-smiling_291650-581.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-attractive-stylish-lady-with-bright-makeup-smiling_291650-581.jpg?_wi=2",
         },
         {
           id: "2",
@@ -214,7 +214,7 @@ export default function LandingPage() {
           role: "Cliente",
           company: "Salotto",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/young-girl-black-shirt-hanged-toy-camera-from-her-neck_114579-24475.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/young-girl-black-shirt-hanged-toy-camera-from-her-neck_114579-24475.jpg?_wi=2",
         },
         {
           id: "3",
