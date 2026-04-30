@@ -151,7 +151,7 @@ export default function LandingPage() {
       <FooterBaseReveal
       logoText="Hair The Very Styles"
       columns={[
-        { title: "Contatti", items: [{ label: "06 4423 5489", href: "tel:+390644235489" }, { label: "Piazza Bologna, Roma", href: "#" }] },
+        { title: "Contatti", items: [{ label: "06 4423 5489", href: "tel:+390644235489" }, { label: "Piazza Bologna, Via Arezzo 34, Roma", href: "#" }] },
         { title: "Social", items: [{ label: "Instagram", href: "#" }] },
         { title: "Orari", items: [{ label: "Mar-Sab: 9:00 - 19:00", href: "#" }] },
       ]}
