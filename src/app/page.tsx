@@ -64,7 +64,7 @@ export default function LandingPage() {
       useInvertedBackground={false}
       title="Alessandra e il suo team"
       metrics={[
-        { icon: Award, label: "Esperienza", value: "10+ Anni" },
+        { icon: Award, label: "Esperienza", value: "25+ Anni" },
         { icon: Smile, label: "Clienti Felici", value: "1000+" },
         { icon: Heart, label: "Ascolto", value: "100%" },
       ]}
