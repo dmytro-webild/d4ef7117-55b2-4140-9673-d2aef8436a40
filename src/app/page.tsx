@@ -50,7 +50,7 @@ export default function LandingPage() {
         { text: "Scopri il salone", href: "#about" },
       ]}
       slides={[
-        { imageSrc: "http://img.b2bpic.net/free-photo/female-hairdresser-styling-clients-hair_107420-94691.jpg", imageAlt: "hair salon interior elegant warm light" },
+        { imageSrc: "http://img.b2bpic.net/free-photo/female-hairdresser-styling-clients-hair_107420-94691.jpg?_wi=1", imageAlt: "hair salon interior elegant warm light" },
         { imageSrc: "http://img.b2bpic.net/free-photo/modern-reception-counter-with-classy-interior-design_482257-101081.jpg", imageAlt: "Modern reception counter with classy interior design" },
         { imageSrc: "http://img.b2bpic.net/free-photo/elderly-guest-arrives-hotel-lobby_482257-81592.jpg", imageAlt: "Elderly guest arrives in hotel lobby" },
         { imageSrc: "http://img.b2bpic.net/free-photo/woman-getting-treatment-hairdresser-shop_23-2149229746.jpg", imageAlt: "Woman getting treatment at hairdresser shop" },
@@ -78,9 +78,9 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         { title: "Taglio", description: "Precisione, stile e armonia con il tuo viso.", imageSrc: "http://img.b2bpic.net/free-photo/european-woman-with-bright-makeup-long-wavy-hair-posing_291650-557.jpg", imageAlt: "european woman with bright makeup and long wavy hair posing" },
-        { title: "Colore", description: "Naturale o deciso, sempre studiato su di te.", imageSrc: "http://img.b2bpic.net/free-photo/female-hairdresser-styling-clients-hair_107420-94691.jpg", imageAlt: "european woman with bright makeup and long wavy hair posing" },
-        { title: "Piega & Styling", description: "Per uscire sentendoti al meglio, ogni volta.", imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-attractive-stylish-lady-with-bright-makeup-smiling_291650-581.jpg", imageAlt: "european woman with bright makeup and long wavy hair posing" },
-        { title: "Trattamenti", description: "Per capelli più sani, luminosi e forti.", imageSrc: "http://img.b2bpic.net/free-photo/young-girl-black-shirt-hanged-toy-camera-from-her-neck_114579-24475.jpg", imageAlt: "european woman with bright makeup and long wavy hair posing" },
+        { title: "Colore", description: "Naturale o deciso, sempre studiato su di te.", imageSrc: "http://img.b2bpic.net/free-photo/female-hairdresser-styling-clients-hair_107420-94691.jpg?_wi=2", imageAlt: "european woman with bright makeup and long wavy hair posing" },
+        { title: "Piega & Styling", description: "Per uscire sentendoti al meglio, ogni volta.", imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-attractive-stylish-lady-with-bright-makeup-smiling_291650-581.jpg?_wi=1", imageAlt: "european woman with bright makeup and long wavy hair posing" },
+        { title: "Trattamenti", description: "Per capelli più sani, luminosi e forti.", imageSrc: "http://img.b2bpic.net/free-photo/young-girl-black-shirt-hanged-toy-camera-from-her-neck_114579-24475.jpg?_wi=1", imageAlt: "european woman with bright makeup and long wavy hair posing" },
       ]}
       title="Servizi pensati per te"
       description="Ogni appuntamento inizia con una consulenza personalizzata."
@@ -109,8 +109,8 @@ export default function LandingPage() {
       gridVariant="uniform-all-items-equal"
       useInvertedBackground={false}
       testimonials={[
-        { id: "1", name: "Giulia R.", role: "Cliente", company: "Fedele", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-attractive-stylish-lady-with-bright-makeup-smiling_291650-581.jpg" },
-        { id: "2", name: "Maria L.", role: "Cliente", company: "Salotto", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/young-girl-black-shirt-hanged-toy-camera-from-her-neck_114579-24475.jpg" },
+        { id: "1", name: "Giulia R.", role: "Cliente", company: "Fedele", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-attractive-stylish-lady-with-bright-makeup-smiling_291650-581.jpg?_wi=2" },
+        { id: "2", name: "Maria L.", role: "Cliente", company: "Salotto", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/young-girl-black-shirt-hanged-toy-camera-from-her-neck_114579-24475.jpg?_wi=2" },
         { id: "3", name: "Elena P.", role: "Cliente", company: "Soddisfatta", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/stylist-works-woman-hair-salon_1398-1042.jpg" },
         { id: "4", name: "Silvia V.", role: "Cliente", company: "Stile", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/young-attractive-woman-holding-hands-together-joyfully-looking-camera-modern-clothes-store_574295-2021.jpg" },
         { id: "5", name: "Chiara B.", role: "Cliente", company: "Fedele", rating: 5, imageSrc: "http://img.b2bpic.net/free-photo/young-woman-combing-hair-bed_23-2147767632.jpg" },
