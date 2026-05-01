@@ -37,7 +37,7 @@ export default function LandingPage() {
         { name: "Prenota", id: "contact" },
       ]}
       brandName="Hair The Very Styles"
-      button={{ text: "Prenota Ora", href: "#contact" }}
+      button={{ text: "Prenota Ora", href: "tel:+390644235489" }}
     />
   </div>
 
@@ -46,7 +46,7 @@ export default function LandingPage() {
       logoText="Hair The Very Styles"
       description="Più di un salone. Un posto in cui tornare. Tagli impeccabili, colori su misura e un team che ti ascolta davvero."
       buttons={[
-        { text: "Prenota ora", href: "#contact" },
+        { text: "Prenota ora", href: "tel:+390644235489" },
         { text: "Scopri il salone", href: "#about" },
       ]}
       slides={[
@@ -79,7 +79,7 @@ export default function LandingPage() {
       features={[
         { title: "Taglio", description: "Precisione, stile e armonia con il tuo viso.", imageSrc: "http://img.b2bpic.net/free-photo/european-woman-with-bright-makeup-long-wavy-hair-posing_291650-557.jpg", imageAlt: "european woman with bright makeup and long wavy hair posing" },
         { title: "Colore", description: "Naturale o deciso, sempre studiato su di te.", imageSrc: "http://img.b2bpic.net/free-photo/female-hairdresser-styling-clients-hair_107420-94691.jpg?_wi=2", imageAlt: "european woman with bright makeup and long wavy hair posing" },
-        { title: "Piega & Styling", description: "Per uscire sentendoti al meglio, ogni volta.", imageSrc: "http://img.b2bpic.net/free-photo/close-up-portrait-attractive-stylish-lady-with-bright-makeup-smiling_291650-581.jpg?_wi=1", imageAlt: "european woman with bright makeup and long wavy hair posing" },
+        { title: "Piega & Styling", description: "Per uscire sentendoti al meglio, ogni volta.", imageSrc: "http://img.b2bpic.net/close-up-portrait-attractive-stylish-lady-with-bright-makeup-smiling_291650-581.jpg?_wi=1", imageAlt: "european woman with bright makeup and long wavy hair posing" },
         { title: "Trattamenti", description: "Per capelli più sani, luminosi e forti.", imageSrc: "http://img.b2bpic.net/free-photo/young-girl-black-shirt-hanged-toy-camera-from-her-neck_114579-24475.jpg?_wi=1", imageAlt: "european woman with bright makeup and long wavy hair posing" },
       ]}
       title="Servizi pensati per te"
