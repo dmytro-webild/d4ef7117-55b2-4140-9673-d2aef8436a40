@@ -124,6 +124,7 @@ export default function LandingPage() {
       <FaqSplitText
       useInvertedBackground={false}
       faqs={[
+        { id: "f0", title: "Come posso prenotare?", content: "Puoi prenotare facilmente chiamandoci al numero 06 4423 5489 o passando direttamente in salone a Piazza Bologna." },
         { id: "f1", title: "Quanto costa?", content: "I prezzi vengono sempre spiegati prima. Trasparenza totale." },
         { id: "f2", title: "E se non so cosa voglio?", content: "Ti aiutiamo noi: è il nostro lavoro." },
         { id: "f3", title: "Potete sistemare un taglio o colore sbagliato?", content: "Sì, lavoriamo spesso su correzioni." },
